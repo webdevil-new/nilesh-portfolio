@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>NILESH RAI — FRONTEND DEVELOPER — MUMBAI, INDIA — DESIGNED AS A PORTFOLIO REFERENCE</p>
+    <p>NILESH RAI — FRONTEND DEVELOPER — MUMBAI, INDIA</p>
   </footer>
 </template>
 
